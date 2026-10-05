@@ -1,0 +1,11 @@
+student_id,subject,marks,attendance,quiz_score,assignment_score,study_hours,date
+ST001,Python,88,92,86,94,5,2026-09-25
+ST001,DBMS,82,88,80,90,4,2026-09-25
+ST001,Mathematics,64,78,60,72,3,2026-09-25
+ST001,Statistics,76,84,75,80,4,2026-09-25
+ST001,Computer Networks,71,82,68,76,3,2026-09-25
+ST002,Python,72,80,70,75,3,2026-09-25
+ST002,DBMS,68,76,64,70,3,2026-09-25
+ST002,Mathematics,58,70,55,62,2,2026-09-25
+ST002,Statistics,65,74,60,68,2,2026-09-25
+ST002,Computer Networks,62,72,58,65,2,2026-09-25
